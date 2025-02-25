@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+    <!-- 圆形边框 -->
+    <circle cx="32" cy="32" r="30" stroke="#222" stroke-width="4" fill="white"/>
+    
+    <!-- 居中的十字架(上短下长) -->
+-   <path d="M28 16h8v10h12v8H36v20h-8V34H16v-8h12V16z" fill="#222"/>
++   <path d="M28 14h8v10h12v8H36v20h-8V32H16v-8h12V14z" fill="#222"/>
+</svg>
